@@ -1,1 +1,2 @@
 This is file2.txt
+This line was added thru' our local repo
